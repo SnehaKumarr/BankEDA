@@ -8,7 +8,7 @@ It aims to uncover trends, correlations, and insights that can be useful for cus
 ## Dataset
 
 The dataset used for this EDA project is stored in the file: **`Banking.csv`**. 
-The dataset used for this EDA project contains anonymized banking records of individual and business customers. It includes features related to income, age, account balances, deposits, loans, and more.
+It contains anonymized banking records of individual and business customers. It includes features related to income, age, account balances, deposits, loans, and more.
 
 
 ---
@@ -45,3 +45,39 @@ The dataset used for this EDA project contains anonymized banking records of ind
 
 ### 3. Programming Language
 - **Python** – Used for all analysis tasks including data loading, preprocessing, visualization, and insight generation.
+
+---
+
+## Insights from EDA (Simplified)
+
+1. **Deposits and Savings Go Hand in Hand**
+   - People who deposit more money in the bank also tend to have higher savings.
+   - This suggests a common habit of actively managing funds.
+
+2. **Older and Higher-Income Customers Save More**
+   - Older people and those earning more usually have more in their savings, retirement (superannuation), and checking accounts.
+
+3. **Property Ownership Isn't Linked Strongly**
+   - Owning property doesn't seem closely tied to income, age, or bank balances.
+   - It may depend more on outside factors like inheritance or market conditions.
+
+4. **Business and Personal Loans Are Somewhat Connected**
+   - Some customers who take out business loans also have personal loans.
+   - But overall, business loans behave differently from typical customer savings or deposits.
+
+5. **Checking vs. Foreign Currency Accounts**
+   - Customers who maintain higher checking balances don’t necessarily have much in foreign currency accounts.
+   - Suggests separate use cases or customer types.
+
+6. **Credit Card Balances Often Rise with Loans**
+   - People with larger bank loans tend to have higher credit card debt as well.
+   - May point to overall higher borrowing behavior.
+
+7. **Income Ties in with Checking Behavior**
+   - Those with higher estimated income tend to keep more in their checking accounts.
+   - A sign of better financial flow or liquidity.
+  
+---
+
+# Author
+Sneha Kumar (NITRR)
